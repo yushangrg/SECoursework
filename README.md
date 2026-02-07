@@ -40,7 +40,6 @@ NB if you are running this on your own computer rather than the azure labs that 
 
 ```const db = require('./services/db');
 ```
-
 ____
 
 Useful commands:
